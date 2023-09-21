@@ -19,11 +19,10 @@ The SuperStoreContext is only used in the GenericRepository class. The connectio
 ## Repository Layer
 All classes and interfaces have been successfully implemented:
 
-![Repository](https://github.com/OKGaosenkwe/CMPG-323-Project-3-29065038/assets/92356409/2ff311fe-e4f5-4157-810a-0bc76ec721fe)
+![Repository](https://github.com/OKGaosenkwe/CMPG-323-Project-3-29065038/assets/92356409/ff772231-058d-4f39-92c3-31c7a5cc969d)
 
 Dependency injection was done in the Startup.cs file:
-
-![dependencyInjection](https://github.com/OKGaosenkwe/CMPG-323-Project-3-29065038/assets/92356409/c12af47c-e8ca-4ba5-b25e-cc27cc4f6c69)
+![dependencyInjection](https://github.com/OKGaosenkwe/CMPG-323-Project-3-29065038/assets/92356409/2e2aeec7-4385-4d6d-960a-2f4a80d79bb0)
 
 ## Reference List
 [References.pdf](https://github.com/OKGaosenkwe/CMPG-323-Project-3-29065038/files/12692214/References.pdf)
